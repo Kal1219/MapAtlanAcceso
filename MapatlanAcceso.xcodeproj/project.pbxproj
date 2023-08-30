@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3869A2392A9E974A0057A4CE /* MapaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3869A2382A9E974A0057A4CE /* MapaView.swift */; };
+		3869A23B2A9E977A0057A4CE /* LugaresView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3869A23A2A9E977A0057A4CE /* LugaresView.swift */; };
+		3869A23D2A9E978F0057A4CE /* PerfilView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3869A23C2A9E978F0057A4CE /* PerfilView.swift */; };
+		3869A23F2A9E97A50057A4CE /* ConfiguracionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3869A23E2A9E97A50057A4CE /* ConfiguracionView.swift */; };
 		38D9C7CC2A9E894700F5657A /* MapatlanAccesoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D9C7CB2A9E894700F5657A /* MapatlanAccesoApp.swift */; };
 		38D9C7CE2A9E894700F5657A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D9C7CD2A9E894700F5657A /* ContentView.swift */; };
 		38D9C7D02A9E894900F5657A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 38D9C7CF2A9E894900F5657A /* Assets.xcassets */; };
@@ -14,6 +18,9 @@
 		38D9C7DD2A9E894900F5657A /* MapatlanAccesoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D9C7DC2A9E894900F5657A /* MapatlanAccesoTests.swift */; };
 		38D9C7E72A9E894900F5657A /* MapatlanAccesoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D9C7E62A9E894900F5657A /* MapatlanAccesoUITests.swift */; };
 		38D9C7E92A9E894900F5657A /* MapatlanAccesoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D9C7E82A9E894900F5657A /* MapatlanAccesoUITestsLaunchTests.swift */; };
+		38D9C7F62A9E899D00F5657A /* AlumnosView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D9C7F52A9E899D00F5657A /* AlumnosView.swift */; };
+		38D9C7F82A9E89B700F5657A /* VisitantesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D9C7F72A9E89B700F5657A /* VisitantesView.swift */; };
+		38D9C7FA2A9E91A600F5657A /* MainMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38D9C7F92A9E91A600F5657A /* MainMenuView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +41,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3869A2382A9E974A0057A4CE /* MapaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapaView.swift; sourceTree = "<group>"; };
+		3869A23A2A9E977A0057A4CE /* LugaresView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LugaresView.swift; sourceTree = "<group>"; };
+		3869A23C2A9E978F0057A4CE /* PerfilView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfilView.swift; sourceTree = "<group>"; };
+		3869A23E2A9E97A50057A4CE /* ConfiguracionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfiguracionView.swift; sourceTree = "<group>"; };
 		38D9C7C82A9E894700F5657A /* MapatlanAcceso.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MapatlanAcceso.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		38D9C7CB2A9E894700F5657A /* MapatlanAccesoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapatlanAccesoApp.swift; sourceTree = "<group>"; };
 		38D9C7CD2A9E894700F5657A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -44,6 +55,9 @@
 		38D9C7E22A9E894900F5657A /* MapatlanAccesoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MapatlanAccesoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		38D9C7E62A9E894900F5657A /* MapatlanAccesoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapatlanAccesoUITests.swift; sourceTree = "<group>"; };
 		38D9C7E82A9E894900F5657A /* MapatlanAccesoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapatlanAccesoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		38D9C7F52A9E899D00F5657A /* AlumnosView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlumnosView.swift; sourceTree = "<group>"; };
+		38D9C7F72A9E89B700F5657A /* VisitantesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisitantesView.swift; sourceTree = "<group>"; };
+		38D9C7F92A9E91A600F5657A /* MainMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenuView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +110,13 @@
 			children = (
 				38D9C7CB2A9E894700F5657A /* MapatlanAccesoApp.swift */,
 				38D9C7CD2A9E894700F5657A /* ContentView.swift */,
+				38D9C7F52A9E899D00F5657A /* AlumnosView.swift */,
+				38D9C7F72A9E89B700F5657A /* VisitantesView.swift */,
+				38D9C7F92A9E91A600F5657A /* MainMenuView.swift */,
+				3869A2382A9E974A0057A4CE /* MapaView.swift */,
+				3869A23A2A9E977A0057A4CE /* LugaresView.swift */,
+				3869A23C2A9E978F0057A4CE /* PerfilView.swift */,
+				3869A23E2A9E97A50057A4CE /* ConfiguracionView.swift */,
 				38D9C7CF2A9E894900F5657A /* Assets.xcassets */,
 				38D9C7D12A9E894900F5657A /* Preview Content */,
 			);
@@ -257,8 +278,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3869A23D2A9E978F0057A4CE /* PerfilView.swift in Sources */,
+				38D9C7FA2A9E91A600F5657A /* MainMenuView.swift in Sources */,
+				3869A2392A9E974A0057A4CE /* MapaView.swift in Sources */,
+				3869A23B2A9E977A0057A4CE /* LugaresView.swift in Sources */,
+				38D9C7F82A9E89B700F5657A /* VisitantesView.swift in Sources */,
 				38D9C7CE2A9E894700F5657A /* ContentView.swift in Sources */,
 				38D9C7CC2A9E894700F5657A /* MapatlanAccesoApp.swift in Sources */,
+				3869A23F2A9E97A50057A4CE /* ConfiguracionView.swift in Sources */,
+				38D9C7F62A9E899D00F5657A /* AlumnosView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
